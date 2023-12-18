@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: nnlp
+Version: 1.1
+Summary: A python package for the development of college students.
+Home-page: https://github.com/Avirup-R/Ninja_hattori
+Author: Aditya and Avirup
+Author-email: avirakshit2002@gmail.com
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
